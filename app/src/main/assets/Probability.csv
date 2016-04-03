@@ -1,0 +1,19 @@
+What is the probability of rolling an even number with a dice?,1 in 2,1 in 3,1 in 4,certain,1 in 6
+What is the probability of rolling an odd number with a dice?,1 in 2,1 in 3,1 in 4,certain,1 in 6
+What is the probability of rolling a number greater than 1 with a dice?,5 in 6,certain,1 in 6,1 in 2 ,1 in 3
+What is the probability of rolling a number greater than 2 with a dice?,2 in 3,certain,1 in 3,1 in 6 ,5 in 6
+What is the probability of rolling a number greater than or equal to 1 with a dice?,certain,5 in 6 ,2 in 3 ,1 in 6 ,1 in 2
+What is the probability of rolling a number greater than 6 with a dice?,certain ,impossible ,1 in 2 ,1 in 3,1 in 4
+What is the probability of rolling a number less than 7 with a dice?,impossible ,certain ,1 in 2 ,1 in 3,1 in 4
+What is the probability of rolling a number less than 4 with a dice?,1 in 2 ,certain ,impossible ,1 in 3,1 in 6
+What is the probability that the a week will have 7 days?,certain ,impossible ,1 in 2 ,1 in 3,1 in 7
+What is the probability that today is Friday?,1 in 7 ,1 in 3,1 in 5,1 in 2,1 in 6
+What is the probability that a day starts with the letter S?,2 in 7,1 in 7,2 in 3 ,3 in 7 ,4 in 7
+What is the probability that a day starts with the letter T?,2 in 7,1 in 7,2 in 3 ,3 in 7 ,4 in 7
+What is the probability that a day starts with the letter F?,1 in 7,2 in 3 ,3 in 7 ,4 in 7,2 in 7
+What is the probability that the current season is Spring?,1 in 4,1 in 12,1 in 3,1 in 6 ,1 in 52
+What is the probability that a page number of a book ends in a 7?,1 in 10 ,1 in 2,1 in 5,1 in 100,1 in 25
+What is the probability that a letter of the alphabet is a vowel?,5 in 26,1 in 6,21 in 26,4 in 13 ,2 in 13
+What is the probability that a letter of the alphabet is a consonant?,21 in 26,5 in 25,1 in 26,1 in 13,2 in 13
+What is the probability that a number between 1 and 10 is a prime number?,1 in 2 ,1 in 3,1 in 4,3 in 10,7 in 10
+What is the probability that a number between 1 and 5 is a prime number?,4 in 5,1 in 5,2 in 5,3 in 5,certain

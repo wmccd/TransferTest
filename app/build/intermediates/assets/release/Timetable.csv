@@ -1,0 +1,12 @@
+How long will it take for Bus 1 to travel from Ballygown to Belfast?,44 minutes,34 minutes,24 minutes,54 minutes,64 minutes,bus_timetable
+How long after Bus 2 leaves Ballygowan does Bus 4 leave?,75 minutes,65 minutes,55 minutes,15 minutes,45 minutes,bus_timetable
+Which bus takes longest to travel from Castlereagh to Belfast?,Bus 2 ,Bus 3 ,Bus 4 ,Bus 1,All take same time,bus_timetable
+How long does it take Bus 3 to travel from Knock to Belfast?,26 minutes,16 minutes,36 minutes,17 minutes,25 minutes,bus_timetable
+How long does it take Bus 1 to travel from Castlereagh to Belfast?,Half an hour.,Three quarters of an hour,35 minutes,20 minutes,40 minutes,bus_timetable
+How long after Bus 2 arrives in Belfast does Bus 3 arrive?,17 minutes,14 minutes,16 minutes,18 minutes,19 minutes,bus_timetable
+If Bob has to meet Kate in Belfast at 13:15 what is last bus he could get to be there on time?,Bus 3,Bus 1,Bus 2,Bus 4,Any of them.,bus_timetable
+How long will it take for Bus 2 to travel from Ballygown to Belfast?,47 minutes,37 minutes,57 minutes,27 minutes,1 hour 7 minutes,bus_timetable
+Which is the last bus to arrive in Moneyreagh by midday?,Bus 3,Bus 2,Bus 1,Bus 4,All arrive before midday.,bus_timetable
+Which bus takes less than an hour to travel from Ballygowan to Belfast,All of them.,Bus 1,Bus 2,Bus 3,Bus 4,bus_timetable
+How many buses arrive in Belfast before 2 pm?,4,3,2,1,0,bus_timetable
+How many buses arrive in Knock before midday?,2,0,1,3,4,bus_timetable

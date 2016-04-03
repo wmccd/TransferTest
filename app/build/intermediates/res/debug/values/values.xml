@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="cowPuns">
+        <item name="cowPuns1">Udderly fantastic</item>
+        <item name="cowPuns2">Keep it up. I dairy you</item>
+        <item name="cowPuns3">Great! Play that funky moosic</item>
+        <item name="cowPuns4">You put that test out to pasture.</item>
+        <item name="cowPuns5">You are a natural barn genuis.</item>
+        <item name="cowPuns6">You must be hungry after all that hard work…go rustle up some grub.</item>
+        <item name="cowPuns7">What a great cowlection of answers.</item>
+        <item name="cowPuns8">Hey clever clogs…just hoof it out of here</item>
+    </string-array>
+    <string-array name="dogPuns">
+        <item name="dogPuns1">Do not terrier self up about it</item>
+        <item name="dogPuns2">Try again. You may get a new leash of life</item>
+        <item name="dogPuns3">A happy tail indeed.</item>
+        <item name="dogPuns4">Yorkie to doing better is more dog puns.</item>
+        <item name="dogPuns5">Feel flea to try again.</item>
+        <item name="dogPuns6">Wow…that was ruff. Have another go.</item>
+        <item name="dogPuns7">No paws. Try again straight away. </item>
+        <item name="dogPuns8">Snout like you to stop so soon.</item>
+    </string-array>
+    <string-array name="rewards">
+        <item name="skipAChore">Skipping a chore</item>
+        <item name="barOfChocolate">A bar of chocolate or packet of sweets</item>
+        <item name="iceCreamDinner">An ice cream after dinner</item>
+        <item name="chooseMovie">Choosing the movie for tonight</item>
+        <item name="extraHourComputer">An extra hour on the computer</item>
+        <item name="tripToMovies">A trip to the movies</item>
+        <item name="tripToPark">A trip to the park</item>
+        <item name="newDVD">A new movie to own</item>
+        <item name="stayUpLate">Staying up an hour later</item>
+        <item name="chooseDinner">Choosing what is for dinner tonight</item>
+        <item name="tripLibrary">A trip to the library</item>
+        <item name="treatAfterLunch">A treat after lunch</item>
+        <item name="inviteFriendPlay">Inviting a friend over to play</item>
+        <item name="boardGameWithFamily">A board game with the family</item>
+        <item name="drawFlagstonesChalk">Drawing on the flagstones with chalk</item>
+        <item name="downloadNewApp">Downloading a new app</item>
+        <item name="tvInsteadOfReading">TV instead of reading before bed</item>
+        <item name="buyWaterbombs">Buying a packet of water bombs</item>
+        <item name="tripToBookshop">A trip to the bookshop</item>
+        <item name="other">Other</item>
+    </string-array>
+    <string-array name="roosterPuns">
+        <item name="roosterPuns1">Practice around the cluck to do better.</item>
+        <item name="roosterPuns2">Too chicken to have another go?</item>
+        <item name="roosterPuns3">Hey…this is no peck-nic.</item>
+        <item name="roosterPuns4">Egg-plosive answers.</item>
+        <item name="roosterPuns5">Some fowl answers and some egg-celent ones.</item>
+        <item name="roosterPuns6">I suspect fowl play.</item>
+        <item name="roosterPuns7">No chickening out…have another go.</item>
+        <item name="roosterPuns8">No high flying this time.</item>
+    </string-array>
+    <string-array name="sheepPuns">
+        <item name="sheepPuns1">Asheep at the wheel?</item>
+        <item name="sheepPuns2">Back to ewe-niversity</item>
+        <item name="sheepPuns3">Not baariliant but there is always next time,</item>
+        <item name="sheepPuns4">Hardly bleating the competition. Try again.</item>
+        <item name="sheepPuns5">The Empire Strikes Baaaaaack.</item>
+        <item name="sheepPuns6">Maybe a lamb post would shed some light on this.</item>
+        <item name="sheepPuns7">You must be getting sheeeepy</item>
+        <item name="sheepPuns8">A bit of a cul-lambity</item>
+    </string-array>
+    <!-- From: file:/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <color name="brown">#A25F24</color>
+    <color name="green">#00BB00</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="scoreband_margin">0dp</dimen>
+    <!-- From: file:/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="WhatSubjectsAreYouBestAt">What Subjects Are You Best At?</string>
+    <string name="WhatTypeOfAnimalWillYouBe">What type of animal will you be?</string>
+    <string name="WhatsYourBestSubject">Best subjects</string>
+    <string name="actionSettings">Settings</string>
+    <string name="app_name">Farmyard Rewards</string>
+    <string name="bonusAwarded">A bonus of 100 points is added to your Lifetime total.</string>
+    <string name="chooseReward">Choose reward: </string>
+    <string name="correctAnswer">Correct answer: </string>
+    <string name="count">count</string>
+    <string name="countdown">Countdown</string>
+    <string name="creditDeveloper">A Raspberry Muffin Appreciation Society Production.</string>
+    <string name="creditImages">Images courtesy of openclipart - http://openclipart.org</string>
+    <string name="creditSounds">Sound effects courtesy of freeSFX - http://www.freesfx.co.uk</string>
+    <string name="databaseStillLoading">The questions are still loading. Have another look at rewards while we finish this up.</string>
+    <string name="farmyardFriendsFoes">Earn lifetime points to uncover the friends, foes and residents you might find down on the farm</string>
+    <string name="farmyardGallery">Farmyard Gallery</string>
+    <string name="farmyardRewards">Farmyard Rewards</string>
+    <string name="foes">Foe</string>
+    <string name="friends">Friend</string>
+    <string name="funDownOnTheFarm">Fun down on the farm</string>
+    <string name="howManyQuestions">How many questions?</string>
+    <string name="howManyQuestionsDefaultNumber">15</string>
+    <string name="image">image</string>
+    <string name="keepGoing">Keep going. You are getting closer to your reward. Only </string>
+    <string name="moreNeeded">more needed.</string>
+    <string name="next">Next</string>
+    <string name="nextGalleryImage">The next image revealed when you reach </string>
+    <string name="noChangeToRewards">No change to rewards</string>
+    <string name="noRewardsSpecified">Uh-oh. You have not specified any reward.</string>
+    <string name="oneHundred">100.00</string>
+    <string name="oneRewardPointAwarded">+1 reward point.</string>
+    <string name="oneRewardPointRemoved">-1 reward point.</string>
+    <string name="other">Other</string>
+    <string name="otherReward">Other reward</string>
+    <string name="percentCorrect">% correct</string>
+    <string name="pointAdded">+ 1 point - a correct answer within the timeout period</string>
+    <string name="pointNone">0 point - a correct answer outside the timeout period</string>
+    <string name="pointRemoved">- 1 point - incorrect answer </string>
+    <string name="pointScoring">Point scoring</string>
+    <string name="pointsNeeded">Points needed: </string>
+    <string name="pointsScoredThisVisit">Points scored on this visit</string>
+    <string name="pointsTotal">Points total</string>
+    <string name="previous">Previous</string>
+    <string name="question">Question : </string>
+    <string name="questionCount">Question Count</string>
+    <string name="questionInstruction">Question instruction</string>
+    <string name="questionType">Question type</string>
+    <string name="quit">Quit</string>
+    <string name="resetRewards">Reset Rewards</string>
+    <string name="residents">Resident</string>
+    <string name="results">Results</string>
+    <string name="rewardDescription">A fun and educational way of earning the perks that kids normally get anyway…just with a little extra effort. Parents and kids agree on the reward and the number of points required to achieve it. When the target is achieved the kids get their reward.</string>
+    <string name="rewardPointTotals">Reward Point Totals</string>
+    <string name="rewards">Rewards: </string>
+    <string name="rewardsTitle">Rewards</string>
+    <string name="saveSelection">Save Selection</string>
+    <string name="scoreband_0">Wooly brain</string>
+    <string name="scoreband_25">Chicken feed</string>
+    <string name="scoreband_50">Barking good</string>
+    <string name="scoreband_75">Udderly brilliant.</string>
+    <string name="selectRewards">Select Rewards</string>
+    <string name="somethingReallyGood">Something really good </string>
+    <string name="specialAwardForRevealing">A special reward for revealing all the images in the gallery. It will take a lot of effort to earn this reward.</string>
+    <string name="specialLifetimeReward">Special lifetime reward</string>
+    <string name="start">Start</string>
+    <string name="targetReached">Congratulations! You have reached your reward. Find a parent/guardian and remind them about </string>
+    <string name="theFarm">The Farm</string>
+    <string name="typeOfQuestion">Type of question</string>
+    <string name="visitTheFarm">Visit The Farm</string>
+    <string name="wellDoneAllFriendsFoes">Well done! All the friends, foes and residents have been revealed. Have you claimed your Lifetime Reward?</string>
+    <string name="whatRewards">What are the rewards and what are they for?</string>
+    <string name="whoIsWhoOnTheFarm">Who is who down on the farm</string>
+    <string name="yourAnswer">Your answer: </string>
+    <!-- From: file:/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <style name="answerText">
+        <item name="android:textColor">#bb6008</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="answerText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="headText">
+        <item name="android:textColor">#bb6008</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="hr">
+        <item name="android:background">@drawable/hr_brown</item>
+        <item name="android:contentDescription">hr</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+
+    <style name="mudText">
+        <item name="android:textColor">#bb6008</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="mudText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="mudTextSmaller">
+        <item name="android:textColor">#bb6008</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="navigation">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="questionTypeText">
+        <item name="android:textColor">#bb6008</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="resultCircle">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="statusTop">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="titleText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#bb6008</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+</resources>

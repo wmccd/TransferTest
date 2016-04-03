@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets" >
+            <file
+                name="Adjectives.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Adjectives.csv" />
+            <file
+                name="adverbs.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/adverbs.csv" />
+            <file
+                name="AdverbsAdjectivesNouns.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/AdverbsAdjectivesNouns.csv" />
+            <file
+                name="Angles.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Angles.csv" />
+            <file
+                name="Antonyms.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Antonyms.csv" />
+            <file
+                name="Average.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Average.csv" />
+            <file
+                name="Clocks1224.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Clocks1224.csv" />
+            <file
+                name="CollectiveNouns.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/CollectiveNouns.csv" />
+            <file
+                name="CostPerKilogram.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/CostPerKilogram.csv" />
+            <file
+                name="CostPerLitre.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/CostPerLitre.csv" />
+            <file
+                name="cow.mp3"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/cow.mp3" />
+            <file
+                name="cow.png"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/cow.png" />
+            <file
+                name="CubedNumbers.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/CubedNumbers.csv" />
+            <file
+                name="Dates.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Dates.csv" />
+            <file
+                name="Decimal Addition.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Decimal Addition.csv" />
+            <file
+                name="DecimalToFraction.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/DecimalToFraction.csv" />
+            <file
+                name="DivisionBiggerNumbers.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/DivisionBiggerNumbers.csv" />
+            <file
+                name="dog.mp3"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/dog.mp3" />
+            <file
+                name="dog.png"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/dog.png" />
+            <file
+                name="EnglishDefinitions.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/EnglishDefinitions.csv" />
+            <file
+                name="EquivalentFractions.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/EquivalentFractions.csv" />
+            <file
+                name="EquivalentMmCmM.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/EquivalentMmCmM.csv" />
+            <file
+                name="EquivalentMultiplication.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/EquivalentMultiplication.csv" />
+            <file
+                name="FewestCoins.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/FewestCoins.csv" />
+            <file
+                name="FractionAddition.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/FractionAddition.csv" />
+            <file
+                name="FractionOf.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/FractionOf.csv" />
+            <file
+                name="FractionsToDecimal.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/FractionsToDecimal.csv" />
+            <file
+                name="GramsKilos.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/GramsKilos.csv" />
+            <file
+                name="LitresMillilitres.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/LitresMillilitres.csv" />
+            <file
+                name="MoneyChange.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/MoneyChange.csv" />
+            <file
+                name="MultiplicationBiggerNumbers.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/MultiplicationBiggerNumbers.csv" />
+            <file
+                name="NotAFactor.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/NotAFactor.csv" />
+            <file
+                name="Nouns.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Nouns.csv" />
+            <file
+                name="Parentheses.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Parentheses.csv" />
+            <file
+                name="PrimeNumbers.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/PrimeNumbers.csv" />
+            <file
+                name="Probability.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Probability.csv" />
+            <file
+                name="QuickFox.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/QuickFox.csv" />
+            <file
+                name="Remainder.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Remainder.csv" />
+            <file
+                name="rooster.mp3"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/rooster.mp3" />
+            <file
+                name="rooster.png"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/rooster.png" />
+            <file
+                name="Rounding.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Rounding.csv" />
+            <file
+                name="Sequences.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Sequences.csv" />
+            <file
+                name="sheep.mp3"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/sheep.mp3" />
+            <file
+                name="sheep.png"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/sheep.png" />
+            <file
+                name="SolidFigures.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/SolidFigures.csv" />
+            <file
+                name="SquareNumbers.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/SquareNumbers.csv" />
+            <file
+                name="SquareRootOf.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/SquareRootOf.csv" />
+            <file
+                name="Synonyms.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Synonyms.csv" />
+            <file
+                name="TensHundreds.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/TensHundreds.csv" />
+            <file
+                name="TenthsAndHundredths.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/TenthsAndHundredths.csv" />
+            <file
+                name="TimesBigger.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/TimesBigger.csv" />
+            <file
+                name="TimesSmaller.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/TimesSmaller.csv" />
+            <file
+                name="Timetable.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/Timetable.csv" />
+            <file
+                name="triangles.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/triangles.csv" />
+            <file
+                name="TwoDimensionalShapes.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/TwoDimensionalShapes.csv" />
+            <file
+                name="ValueOfY.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/ValueOfY.csv" />
+            <file
+                name="verbs.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/verbs.csv" />
+            <file
+                name="verbsStates.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/verbsStates.csv" />
+            <file
+                name="WriteInFigures.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/WriteInFigures.csv" />
+            <file
+                name="WriteInNumbers.csv"
+                path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/main/assets/WriteInNumbers.csv" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/williammccullough/AndroidStudioProjects/TransferTest/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
