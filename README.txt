@@ -1,0 +1,1 @@
+This app is intended to help P6/P7 pupils with Transfer Test exam.
