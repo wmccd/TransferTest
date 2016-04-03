@@ -1,1 +1,1 @@
-This Android app is intended to help P6/P7 pupils with Transfer Test (aka 11+) exam. Have a good time down at the farm. 
+This Android app is intended to help P6/P7 pupils with Transfer Test (aka 11+) exam. Have a good time down on the farm. It's fab.
