@@ -1,1 +1,1 @@
-This app is intended to help P6/P7 pupils with Transfer Test (aka 11+)exam.
+This Android app is intended to help P6/P7 pupils with Transfer Test (aka 11+) exam.
